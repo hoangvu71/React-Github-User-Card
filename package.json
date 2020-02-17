@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "node-sass": "^4.13.1"
   }
 }
